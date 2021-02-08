@@ -1,0 +1,12 @@
+name: probcalc
+title: probcalc
+username:
+account: nan-oliveira
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3598203
+bundleId: 4193819
+url: https://nan-oliveira.shinyapps.io/probcalc/
+when: 1612748344.46688
+asMultiple: FALSE
+asStatic: FALSE
